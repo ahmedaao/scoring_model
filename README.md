@@ -4,7 +4,7 @@ Objectif : Mettre en place un modèle de scoring pour prédire si un emprunteur 
 
 Origine du projet : https://www.kaggle.com/competitions/home-credit-default-risk
 
-Source des données utilisées : 
+Source des données utilisées à retrouver à l'Origine du projet : 
 				application_train.csv
 				application_test.csv
 
